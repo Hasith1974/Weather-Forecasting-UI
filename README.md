@@ -7,7 +7,7 @@ This is a simple and responsive weather forecasting webpage built using **HTML**
 - 🌍 City-based weather search
 - ☁️ Real-time weather info using OpenWeatherMap API
 - 📱 Responsive design for mobile and desktop
-- 🌡️ Displays real-time **temperature**, **Month**, **date**, **day** and **time**,based on your location.
+- 🌡️ Displays real-time **Temperature**, **Month**, **Date**, **Day** and **Time**, based on your location.
 - ⛅ 5-day forecast with night/day temperatures.
 
 
